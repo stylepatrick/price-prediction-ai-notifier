@@ -1,5 +1,5 @@
 # price-prediction-ai-notifier
- Forecast any stocks, currencies and cryptocurrencies with scheduled Telegram notification and constant adjustment of the model.
+ Forecast any stocks, currencies and cryptocurrencies with Neural-Network and scheduled Telegram notification with constant adjustment of the model.
  
 Backtesting of ETH-USD:
 ![img_1.png](eth-usd.png)
