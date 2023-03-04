@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+    price-prediction-ai:
+        image: 192.168.1.200:5008/price-prediction-ai-notifier:0.0.2
+        ports:
+            - '899:899'
