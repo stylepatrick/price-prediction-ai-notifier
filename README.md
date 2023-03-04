@@ -1,2 +1,5 @@
 # price-prediction-ai-notifier
- Price prediction AI Telegram notifier
+ Forecast any stocks, currencies and cryptocurrencies with Telegram notification and constant adjustment of the model.
+ 
+Backtesting of ETH-USD:
+![img_1.png](eth-usd.png)
